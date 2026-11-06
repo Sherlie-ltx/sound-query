@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+
+# Data & generated outputs (too large / ESC-50 license)
+data/
+listening_test/
+*.zip
+*.wav
+*.mp3
+*.flac
+
+# Embeddings & checkpoints
+*.pt
+*.ckpt
+*.pth
