@@ -1,0 +1,14 @@
+true_modifier,pred_modifier,count,rate
+more nostalgic,more nostalgic,385,0.9625
+more nostalgic,warmer,7,0.0175
+more nostalgic,more lo-fi,4,0.01
+more nostalgic,more distorted,2,0.005
+more nostalgic,brighter,1,0.0025
+more nostalgic,less muddy,1,0.0025
+more tense,brighter,116,0.29
+more tense,more tense,91,0.2275
+more tense,warmer,83,0.2075
+more tense,more distorted,59,0.1475
+more tense,less muddy,48,0.12
+more tense,more cinematic,2,0.005
+more tense,more spacious,1,0.0025

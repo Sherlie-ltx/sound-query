@@ -1,0 +1,56 @@
+experiment,setting,split,method,true_modifier,num_queries,R@1,R@3,R@5,R@10,R@50,MRR,median_rank,mean_rank
+11 modifiers,within-source,test,audio_only,brighter,400.0,0.0875,0.8075,1.0,1.0,1.0,0.4282916666666667,3.0,2.7575
+11 modifiers,within-source,test,audio_only,more muffled,400.0,0.0,0.0,0.0225,0.9525,1.0,0.12699179292929294,8.0,8.245
+11 modifiers,within-source,test,audio_only,more distorted,400.0,0.205,0.3125,0.9075,1.0,1.0,0.3974196428571429,4.0,3.77
+11 modifiers,within-source,test,audio_only,more spacious,400.0,0.0,0.0,0.12,1.0,1.0,0.15578075396825397,7.0,6.7225
+11 modifiers,within-source,test,audio_only,less muddy,400.0,0.09,0.7875,1.0,1.0,1.0,0.4229166666666667,3.0,2.81
+11 modifiers,within-source,test,audio_only,more cinematic,400.0,0.0,0.0,0.0575,0.98,1.0,0.13693028499278498,7.0,7.61
+11 modifiers,within-source,test,audio_only,more dreamy,400.0,0.0,0.0,0.0,0.72,1.0,0.10452101370851372,10.0,9.71
+11 modifiers,within-source,test,audio_only,more lo-fi,400.0,0.0,0.0,0.0225,0.94,1.0,0.12686823593073593,8.0,8.1675
+11 modifiers,within-source,test,audio_only,warmer,400.0,0.6175,0.975,1.0,1.0,1.0,0.7864166666666667,1.0,1.5325
+11 modifiers,within-source,test,audio_only,more tense,400.0,0.0,0.1175,0.87,0.9975,1.0,0.23030068542568544,5.0,4.6975
+11 modifiers,within-source,test,audio_only,more nostalgic,400.0,0.0,0.0,0.0,0.41,1.0,0.10343993506493505,11.0,9.9775
+11 modifiers,within-source,test,text_only,brighter,400.0,0.05,0.245,0.4475,0.9325,1.0,0.25002723665223664,6.0,5.985
+11 modifiers,within-source,test,text_only,more muffled,400.0,0.815,0.975,0.99,1.0,1.0,0.8936319444444445,1.0,1.3175
+11 modifiers,within-source,test,text_only,more distorted,400.0,0.015,0.2225,0.55,0.9975,1.0,0.23097925685425685,5.0,5.26
+11 modifiers,within-source,test,text_only,more spacious,400.0,0.04,0.2725,0.55,0.9275,1.0,0.2512595598845599,5.0,5.64
+11 modifiers,within-source,test,text_only,less muddy,400.0,0.1075,0.3575,0.585,0.9925,1.0,0.3187234848484848,5.0,4.9475
+11 modifiers,within-source,test,text_only,more cinematic,400.0,0.08,0.5175,0.7825,0.985,1.0,0.34836760461760463,3.0,4.125
+11 modifiers,within-source,test,text_only,more dreamy,400.0,0.3125,0.6875,0.7775,0.985,1.0,0.5256225649350649,2.0,3.49
+11 modifiers,within-source,test,text_only,more lo-fi,400.0,0.03,0.5525,0.7225,0.965,1.0,0.3237740800865801,3.0,4.435
+11 modifiers,within-source,test,text_only,warmer,400.0,0.005,0.0575,0.215,0.95,1.0,0.15805041486291485,7.0,7.2975
+11 modifiers,within-source,test,text_only,more tense,400.0,0.0025,0.06,0.2525,0.915,1.0,0.16185723304473307,7.0,7.25
+11 modifiers,within-source,test,text_only,more nostalgic,400.0,0.0575,0.2225,0.365,0.72,1.0,0.22617279942279944,8.0,7.1775
+11 modifiers,within-source,test,weighted_065_035,brighter,400.0,0.1925,0.71,0.9975,1.0,1.0,0.4846666666666667,2.0,2.7325
+11 modifiers,within-source,test,weighted_065_035,more muffled,400.0,0.0125,0.0275,0.0925,0.9925,1.0,0.1562601911976912,7.0,7.3175
+11 modifiers,within-source,test,weighted_065_035,more distorted,400.0,0.365,0.7625,0.935,1.0,1.0,0.5945376984126984,2.0,2.4725
+11 modifiers,within-source,test,weighted_065_035,more spacious,400.0,0.02,0.0375,0.155,1.0,1.0,0.17424702380952384,7.0,6.6825
+11 modifiers,within-source,test,weighted_065_035,less muddy,400.0,0.39,0.875,1.0,1.0,1.0,0.6287083333333333,2.0,2.0825
+11 modifiers,within-source,test,weighted_065_035,more cinematic,400.0,0.0075,0.03,0.1275,0.98,1.0,0.15462671356421356,7.0,7.2075
+11 modifiers,within-source,test,weighted_065_035,more dreamy,400.0,0.0,0.0,0.01,0.775,1.0,0.10893272005772006,10.0,9.4175
+11 modifiers,within-source,test,weighted_065_035,more lo-fi,400.0,0.0,0.0,0.02,0.93,1.0,0.12692018398268398,8.0,8.1875
+11 modifiers,within-source,test,weighted_065_035,warmer,400.0,0.4275,0.86,0.9975,1.0,1.0,0.6436666666666667,2.0,2.1
+11 modifiers,within-source,test,weighted_065_035,more tense,400.0,0.03,0.2075,0.8125,0.9975,1.0,0.2547768759018759,5.0,4.68
+11 modifiers,within-source,test,weighted_065_035,more nostalgic,400.0,0.0,0.0,0.0025,0.3875,1.0,0.10197943722943723,11.0,10.0975
+11 modifiers,within-source,test,weighted_050_050,brighter,400.0,0.155,0.6275,0.98,1.0,1.0,0.44019642857142854,3.0,3.0175
+11 modifiers,within-source,test,weighted_050_050,more muffled,400.0,0.155,0.2425,0.355,0.9975,1.0,0.3081389790764791,6.0,5.665
+11 modifiers,within-source,test,weighted_050_050,more distorted,400.0,0.3175,0.855,0.9575,1.0,1.0,0.5845069444444444,2.0,2.32
+11 modifiers,within-source,test,weighted_050_050,more spacious,400.0,0.055,0.1,0.2075,0.9975,1.0,0.2092133838383838,7.0,6.52
+11 modifiers,within-source,test,weighted_050_050,less muddy,400.0,0.4125,0.8225,0.9925,1.0,1.0,0.6297738095238096,2.0,2.18
+11 modifiers,within-source,test,weighted_050_050,more cinematic,400.0,0.0525,0.0975,0.195,0.975,1.0,0.19910110028860029,7.0,6.855
+11 modifiers,within-source,test,weighted_050_050,more dreamy,400.0,0.0075,0.0175,0.0475,0.81,1.0,0.12290268759018758,10.0,9.045
+11 modifiers,within-source,test,weighted_050_050,more lo-fi,400.0,0.0125,0.0375,0.085,0.945,1.0,0.14575694444444445,8.0,7.935
+11 modifiers,within-source,test,weighted_050_050,warmer,400.0,0.295,0.7425,0.975,1.0,1.0,0.5364642857142857,3.0,2.5925
+11 modifiers,within-source,test,weighted_050_050,more tense,400.0,0.055,0.275,0.715,0.995,1.0,0.2789852994227994,5.0,4.695
+11 modifiers,within-source,test,weighted_050_050,more nostalgic,400.0,0.0,0.0,0.0075,0.3725,1.0,0.10154942279942279,11.0,10.1425
+11 modifiers,within-source,test,modifier_adapter,brighter,400.0,0.5575,0.9625,1.0,1.0,1.0,0.7522083333333334,1.0,1.6275
+11 modifiers,within-source,test,modifier_adapter,more muffled,400.0,0.9,0.945,0.9725,1.0,1.0,0.9304126984126984,1.0,1.3175
+11 modifiers,within-source,test,modifier_adapter,more distorted,400.0,0.1825,0.5525,0.965,1.0,1.0,0.4426081349206349,3.0,3.1425
+11 modifiers,within-source,test,modifier_adapter,more spacious,400.0,0.5275,0.775,0.9,1.0,1.0,0.6888700396825397,1.0,2.28
+11 modifiers,within-source,test,modifier_adapter,less muddy,400.0,0.3625,0.915,1.0,1.0,1.0,0.6364166666666666,2.0,1.97
+11 modifiers,within-source,test,modifier_adapter,more cinematic,400.0,0.42,0.7475,0.8775,1.0,1.0,0.6205416666666667,2.0,2.5775
+11 modifiers,within-source,test,modifier_adapter,more dreamy,400.0,0.805,0.9625,0.9725,1.0,1.0,0.8803759920634922,1.0,1.42
+11 modifiers,within-source,test,modifier_adapter,more lo-fi,400.0,0.8875,0.935,0.955,0.995,1.0,0.9196886724386724,1.0,1.405
+11 modifiers,within-source,test,modifier_adapter,warmer,400.0,0.5825,0.9725,1.0,1.0,1.0,0.7501249999999999,1.0,1.685
+11 modifiers,within-source,test,modifier_adapter,more tense,400.0,0.2275,0.5725,0.96,0.9975,1.0,0.46222429653679653,3.0,3.1275
+11 modifiers,within-source,test,modifier_adapter,more nostalgic,400.0,0.9625,0.9825,0.9875,1.0,1.0,0.9747708333333333,1.0,1.11
